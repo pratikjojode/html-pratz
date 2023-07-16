@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+    
+}
+
+.nav_bar{
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: green;
+    border-radius: 5px;
+    margin-left: 10px;
+    
+}
+
+.skills{
+    font-weight: bolder;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 30px;
+}
+
+.lead{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+margin-left: 20px;
+padding: 20px;
+}
+
+
+.button_1{
+    background-color: blue;
+    border-radius: 8px;
+    text-transform: capitalize;
+    margin-left: 40%;
+}
+
+.button_2{
+    background-color: red;
+    border-radius: 8px;
+    text-transform: capitalize;
+}
+
+.button_1:hover{
+    background-color: lightblue;
+}
+
+.button_2:hover{
+    background-color: lightblue;
+}
+
+
+.container > img{
+    height: 500px;
+    width: 40%;
+    display: inline-block;
+    float: left;
+   
+    
+}
+
+.words{
+    font-weight: bolder;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-align: center;
+    margin-left: 50%;
+    border: 5px solid gray;
+}
+
+.card{
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+.card_2{
+    border-radius: 2px;
+    margin-left:70%;
+    position: relative;
+    bottom: 275px;
+    
+}
+
+
+h1{ font-family: 'Times New Roman', Times, serif;}
